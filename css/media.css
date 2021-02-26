@@ -1,0 +1,1432 @@
+@media(min-width:890px) and (max-width:991px){
+    #theme .theme-info p {
+        font: 400 12px/20px "Roboto", sans-serif;
+        padding-left: 10px;
+    }
+    .Padding-t {
+        padding: 10px 0;
+        margin-right: -35px;
+    }
+}
+
+@media(min-width:1600px) and (max-width:1799px){
+    .banner-overlay p {
+        padding: 0 70px;
+        padding-top: 45px;
+        padding-bottom: 5px;
+        font-size: 21px;
+    }
+    .about-item h2 {
+        font-size: 14px;
+    }
+    #about {
+        padding-top: 0;
+        padding-bottom: 15px;
+    }
+    .traiangle-up::before {
+        top: -70px;
+    }
+    .header {
+        top: 61px;
+    }
+    .about-item p {
+        padding-top: 17px;
+        font-size: 17px;
+    }
+    #about-items {
+        padding-top: 75px;
+        padding-bottom: 10px;
+    }
+    .box1 {
+        margin-bottom: 50px;
+        width: 260px;
+    }
+    .box1 p {
+        padding: 0px 10px;
+        padding-top: 30px;
+    }
+    #gallery {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .gallery-info p {
+        padding: 0 100px;
+        padding-bottom: 30px;
+    }
+    .gallery-nav ul {
+        padding-left: 24px;
+    }
+    .gallery-nav ul li {
+        padding: 0px 23px;
+    }
+    .gallery-nav ul li a {
+        font-size: 13px;
+    }
+    .gal-inner {
+        padding: 16px;
+    }
+    .gal-inner .C-right {
+        bottom: 15px;
+    }
+    .gal-inner .B-right {
+        bottom: 15px;
+    }
+    .counterup-info h4 {
+        padding-top: 30px;
+        font-size: 19px;
+    }
+    .counterup-info p {
+        padding: 0px 275px;
+        padding-top: 25px;
+    }
+    .counterup-item-info h3 {
+        font-size: 22px;
+    }
+    .header {
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        top: 145px;
+    }
+    #theme .Ttext-Edit2 {
+        padding: 0 80px;
+        padding-top: 17px;
+    }
+    .counterup-over {
+        height: 550px;
+    }
+    #counterup {
+        padding-bottom: 85px;
+    }
+    #feedback {
+        padding-top: 120px;
+        padding-bottom: 30px;
+    }
+    .faqanswer p {
+        margin-left: 57px;
+        padding-right: 57px;
+    }
+    .main-dropdown {
+        width: unset;
+        height: unset;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .main-dropdown {
+        padding-top: 35px;
+    }
+    .collaps {
+        font-size: 17px;
+    }
+    .text-D span {
+        font-size: 14px;
+    }
+    #theme {
+        padding-top: 40px;
+    }
+    #theme .theme-info p {
+        padding-bottom: 15px;
+    }
+    .space1 {
+        margin-top: 0;
+    }
+    #blog {
+        padding-top: 40px;
+        padding-bottom: 32px;
+    }
+    #theme .theme-info h6 {
+        font: 700 16px/20px "Raleway", sans-serif;
+        padding-left: 10px;
+    }
+    #theme .theme-info p {
+        font: 400 12px/17px "Roboto", sans-serif;
+        padding-left: 10px;
+    }
+    #theme .theme-icon svg {
+        width: 35px;
+    }
+    #theme .theme-icon {
+        width: 92px;
+        height: 92px;
+    }
+    #footer .copyright ul li a {
+        font: 700 12px/16px "Raleway", sans-serif;
+    }
+    #blog .post-info {
+        font: 400 12px/17px "Roboto", sans-serif;
+        padding-bottom: 12px;
+        padding-top: 15px;
+    }
+    #blog .post-content h5 {
+        font: 600 13px/20px "Raleway", sans-serif;
+        margin-bottom: 0;
+    }
+    #blog .post-content p {
+        font: 400 13px/20px "Roboto", sans-serif;
+        margin-bottom: 2px;
+        padding-right: 46px;
+    }
+    #blog .read-more:hover + .line {
+        width: 215px;
+    }
+    #brands {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #blog .text-Edit2 {
+        padding: 0 75px;
+        padding-top: 17px;
+    }
+}
+
+@media(min-width:1400px) and (max-width:1599px){
+    .banner-overlay p {
+        padding: 0 70px;
+        padding-top: 45px;
+        padding-bottom: 5px;
+        font-size: 21px;
+    }
+    .about-item h2 {
+        font-size: 14px;
+    }
+    #about {
+        padding-top: 0;
+        padding-bottom: 15px;
+    }
+    .traiangle-up::before {
+        top: -70px;
+    }
+    .header {
+        top: 61px;
+    }
+    .about-item p {
+        padding-top: 17px;
+        font-size: 17px;
+    }
+    #about-items {
+        padding-top: 75px;
+        padding-bottom: 10px;
+    }
+    .box1 {
+        margin-bottom: 50px;
+        width: 260px;
+    }
+    .box1 p {
+        padding: 0px 10px;
+        padding-top: 30px;
+    }
+    #gallery {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .gallery-info p {
+        padding: 0 100px;
+        padding-bottom: 30px;
+    }
+    .gallery-nav ul {
+        padding-left: 24px;
+    }
+    .gallery-nav ul li {
+        padding: 0px 23px;
+    }
+    .gallery-nav ul li a {
+        font-size: 13px;
+    }
+    .gal-inner h3 {
+        font-size: 14px;
+        padding-bottom: 14px;
+    }
+    .gal-inner p {
+        font-size: 13px;
+        margin-bottom: 85px;
+    }
+    .gal-inner {
+        padding: 16px;
+    }
+    .gal-inner .C-right {
+        bottom: 15px;
+    }
+    .gal-inner .B-right {
+        bottom: 15px;
+    }
+    .counterup-info h4 {
+        padding-top: 30px;
+        font-size: 19px;
+    }
+    .counterup-info p {
+        padding: 0px 275px;
+        padding-top: 25px;
+    }
+    .counterup-item-info h3 {
+        font-size: 22px;
+    }
+    .header {
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        top: 145px;
+    }
+    #theme .Ttext-Edit2 {
+        padding: 0 80px;
+        padding-top: 17px;
+    }
+    .counterup-over {
+        height: 550px;
+    }
+    #counterup {
+        padding-bottom: 85px;
+    }
+    #feedback {
+        padding-top: 120px;
+        padding-bottom: 30px;
+    }
+    .faqanswer p {
+        margin-left: 57px;
+        padding-right: 57px;
+    }
+    .main-dropdown {
+        width: unset;
+        height: unset;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .main-dropdown {
+        padding-top: 35px;
+    }
+    .collaps {
+        font-size: 17px;
+    }
+    .text-D span {
+        font-size: 14px;
+    }
+    #theme {
+        padding-top: 40px;
+    }
+    #theme .theme-info p {
+        padding-bottom: 15px;
+    }
+    .space1 {
+        margin-top: 0;
+    }
+    #blog {
+        padding-top: 40px;
+        padding-bottom: 32px;
+    }
+    #theme .theme-info h6 {
+        font: 700 16px/20px "Raleway", sans-serif;
+        padding-left: 10px;
+    }
+    #theme .theme-info p {
+        font: 400 12px/17px "Roboto", sans-serif;
+        padding-left: 10px;
+    }
+    #theme .theme-icon svg {
+        width: 35px;
+    }
+    #theme .theme-icon {
+        width: 92px;
+        height: 92px;
+    }
+    #footer .copyright ul li a {
+        font: 700 12px/16px "Raleway", sans-serif;
+    }
+    #blog .post-info {
+        font: 400 12px/17px "Roboto", sans-serif;
+        padding-bottom: 12px;
+        padding-top: 15px;
+    }
+    #blog .post-content h5 {
+        font: 600 13px/20px "Raleway", sans-serif;
+        margin-bottom: 0;
+    }
+    #blog .post-content p {
+        font: 400 13px/20px "Roboto", sans-serif;
+        margin-bottom: 2px;
+        padding-right: 46px;
+    }
+    #blog .read-more:hover + .line {
+        width: 215px;
+    }
+    #brands {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #blog .text-Edit2 {
+        padding: 0 75px;
+        padding-top: 17px;
+    }
+}
+
+@media(min-width:1200px) and (max-width:1399px){
+     /* Navber */
+     .nav-icon span {
+        padding-right: 25px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 17px;
+        padding-left: 27px;
+    }
+    .logo-img {
+        padding-right: 15px;
+    }
+    /* Navber *-* */
+    .banner-overlay p {
+        padding: 0 70px;
+        padding-top: 45px;
+        padding-bottom: 5px;
+        font-size: 21px;
+    }
+    .about-item h2 {
+        font-size: 14px;
+    }
+    #about {
+        padding-top: 0;
+        padding-bottom: 15px;
+    }
+    .traiangle-up::before {
+        top: -70px;
+    }
+    .header {
+        top: 61px;
+    }
+    .about-item p {
+        padding-top: 17px;
+        font-size: 17px;
+    }
+    #about-items {
+        padding-top: 75px;
+        padding-bottom: 10px;
+    }
+    .box1 {
+        margin-bottom: 50px;
+        width: 260px;
+    }
+    .box1 p {
+        padding: 0px 10px;
+        padding-top: 30px;
+    }
+    #gallery {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .gallery-info p {
+        padding: 0 100px;
+        padding-bottom: 30px;
+    }
+    .gallery-nav ul {
+        padding-left: 24px;
+    }
+    .gallery-nav ul li {
+        padding: 0px 23px;
+    }
+    .gallery-nav ul li a {
+        font-size: 13px;
+    }
+    .gal-inner h3 {
+        font-size: 14px;
+        padding-bottom: 14px;
+    }
+    .gal-inner p {
+        font-size: 13px;
+        margin-bottom: 85px;
+    }
+    .gal-inner {
+        padding: 16px;
+    }
+    .gal-inner .C-right {
+        bottom: 15px;
+    }
+    .gal-inner .B-right {
+        bottom: 15px;
+    }
+    .counterup-info h4 {
+        padding-top: 30px;
+        font-size: 19px;
+    }
+    .counterup-info p {
+        padding: 0px 275px;
+        padding-top: 25px;
+    }
+    .counterup-item-info h3 {
+        font-size: 22px;
+    }
+    .header {
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        top: 150px;
+    }
+    #theme .Ttext-Edit2 {
+        padding: 0 80px;
+        padding-top: 17px;
+    }
+    .counterup-over {
+        height: 550px;
+    }
+    #counterup {
+        padding-bottom: 85px;
+    }
+    #feedback {
+        padding-top: 120px;
+        padding-bottom: 30px;
+    }
+    .togglefaq {
+        width: 495px;
+        overflow: hidden;
+    }
+    .faqanswer p {
+        margin-left: 57px;
+        padding-right: 57px;
+    }
+    .main-dropdown {
+        width: unset;
+        height: unset;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .main-dropdown {
+        padding-top: 35px;
+    }
+    .collaps {
+        font-size: 17px;
+    }
+    .text-D span {
+        font-size: 14px;
+    }
+    #theme {
+        padding-top: 40px;
+    }
+    #theme .theme-info p {
+        padding-bottom: 15px;
+    }
+    .space1 {
+        margin-top: 0;
+    }
+    a.actived {
+        font-size: 17px;
+        margin-left: 38px;
+    }
+    #blog {
+        padding-top: 40px;
+        padding-bottom: 32px;
+    }
+    #theme .theme-info h6 {
+        font: 700 16px/20px "Raleway", sans-serif;
+        padding-left: 10px;
+    }
+    #theme .theme-info p {
+        font: 400 12px/17px "Roboto", sans-serif;
+        padding-left: 10px;
+    }
+    #theme .theme-icon svg {
+        width: 35px;
+    }
+    #theme .theme-icon {
+        width: 92px;
+        height: 92px;
+    }
+    #footer .copyright ul li a {
+        font: 700 12px/16px "Raleway", sans-serif;
+    }
+    #blog .post-info {
+        font: 400 12px/17px "Roboto", sans-serif;
+        padding-bottom: 12px;
+        padding-top: 15px;
+    }
+    #blog .post-content h5 {
+        font: 600 13px/20px "Raleway", sans-serif;
+        margin-bottom: 0;
+    }
+    #blog .post-content p {
+        font: 400 13px/20px "Roboto", sans-serif;
+        margin-bottom: 2px;
+        padding-right: 46px;
+    }
+    #blog .read-more:hover + .line {
+        width: 215px;
+    }
+    #brands {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #blog .text-Edit2 {
+        padding: 0 75px;
+        padding-top: 17px;
+    }
+}
+@media(min-width:992px) and (max-width:1199px){
+    /* Navber */
+    .nav-icon span {
+        padding-right: 25px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 23px;
+        padding-left: 0px;
+    }
+    .logo-img {
+        padding-right: 15px;
+    }
+    /* Navber *-* */
+    .banner-overlay p {
+        padding: 0 70px;
+        padding-top: 45px;
+        padding-bottom: 5px;
+        font-size: 21px;
+    }
+    .about-item h2 {
+        font-size: 14px;
+    }
+    #about {
+        padding-top: 0;
+        padding-bottom: 15px;
+    }
+    .traiangle-up::before {
+        top: -70px;
+    }
+    .header {
+        top: 61px;
+    }
+    .about-item p {
+        padding-top: 17px;
+        font-size: 17px;
+    }
+    #about-items {
+        padding-top: 75px;
+        padding-bottom: 10px;
+    }
+    .box1 {
+        margin-bottom: 50px;
+        width: 216px;
+        height: 241px;
+        }
+    .box1 p {
+        padding: 0px 10px;
+        padding-top: 30px;
+    }
+    #gallery {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .gallery-info p {
+        padding: 0 100px;
+        padding-bottom: 30px;
+    }
+    .gallery-nav ul {
+        padding-left: 24px;
+    }
+    .gallery-nav ul li {
+        padding: 0px 23px;
+    }
+    .gallery-nav ul li a {
+        font-size: 13px;
+    }
+    .gal-inner h3 {
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+    .gal-inner p {
+        font-size: 13px;
+        margin-bottom: 60px;
+    }
+    .gal-inner {
+        padding: 16px;
+    }
+    .gal-inner i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+    .gal-inner .C-right {
+        right: 60px;
+        bottom: 15px;
+    }
+    .gal-inner .B-right {
+        right: 20px;
+        bottom: 15px;
+    }
+    .counterup-info h4 {
+        padding-top: 30px;
+        font-size: 19px;
+    }
+    .counterup-info p {
+        padding: 0px 130px;
+        padding-top: 25px;
+    }
+    .counterup-item-info h3 {
+        font-size: 22px;
+    }
+    .header {
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        top: 149px;
+    }
+    .counterup-over {
+        height: 550px;
+    }
+    #counterup {
+        padding-bottom: 150px;
+    }
+    #feedback {
+        padding-top: 120px;
+        padding-bottom: 30px;
+    }
+    .togglefaq {
+        width: 455px;
+        overflow: hidden;
+    }
+    .faqanswer p {
+        margin-left: 57px;
+        padding-right: 57px;
+    }
+    .main-dropdown {
+        width: unset;
+        height: unset;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .main-dropdown {
+        padding-top: 35px;
+    }
+    a.actived {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .collaps {
+        font-size: 17px;
+    }
+    .text-D span {
+        font-size: 14px;
+    }
+    #theme {
+        padding-top: 40px;
+    }
+    #theme .theme-info p {
+        padding-bottom: 15px;
+    }
+    .space1 {
+        margin-top: 0;
+    }
+    a.actived {
+        font-size: 17px;
+    }
+    #blog {
+        padding-top: 40px;
+        padding-bottom: 32px;
+    }
+    #theme .theme-info h6 {
+        font: 700 16px/20px "Raleway", sans-serif;
+        padding-left: 10px;
+    }
+    #theme .theme-info p {
+        font: 400 12px/17px "Roboto", sans-serif;
+        padding-left: 10px;
+    }
+    #theme .theme-icon svg {
+        width: 35px;
+    }
+    #theme .theme-icon {
+        width: 92px;
+        height: 92px;
+    }
+    #footer .copyright ul li a {
+        font: 700 12px/16px "Raleway", sans-serif;
+    }
+    #blog .post-info {
+        font: 400 12px/17px "Roboto", sans-serif;
+        padding-bottom: 12px;
+        padding-top: 15px;
+    }
+    #blog .post-content h5 {
+        font: 600 13px/20px "Raleway", sans-serif;
+        margin-bottom: 0;
+    }
+    #blog .post-content p {
+        font: 400 13px/20px "Roboto", sans-serif;
+        margin-bottom: 2px;
+        padding-right: 46px;
+    }
+    #blog .read-more:hover + .line {
+        width: 215px;
+    }
+    #brands {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px){
+    .banner-overlay p {
+        font-size: 12px;
+        padding: 0px 234px;
+        line-height: 15px;
+        padding-top: 20px;
+    }
+    .banner-overlay h3 {
+        padding-top: 36px;
+        font-size: 30px;
+    }
+    .banner-overlay h1 {
+        font-size: 35px;
+    }
+    .banner-overlay button {
+        margin: 0 5.5px;
+        width: 104px;
+        height: 29px;
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    .A-left{
+        display: none;
+    }
+    .A-right{
+        display: none;
+    }
+    #hide {
+        height: 0;
+    }
+    #navber-info {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        position: fixed;
+        top: 0;
+        left: 0;
+    }
+    #head-line-ver {
+        display: none;
+    }
+    #banner {
+        margin-top: 61px;
+    }
+    .navbar-toggler i {
+        font-size: 25px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 20px;
+        background-color: #eaeaea;
+        border: 1px solid white;
+    }
+    .extra-jinis {
+        display: flex;
+    }
+    .nav-shop-icon1 i {
+        padding-left: 18px;
+    }
+    .about-item h2 {
+        font-size: 14px;
+    }
+    #about {
+        padding-top: 0;
+        padding-bottom: 15px;
+    }
+    .traiangle-up::before {
+        top: -70px;
+    }
+    .header {
+        top: 61px;
+    }
+    .about-item p {
+        padding-top: 17px;
+        font-size: 17px;
+    }
+    #about-items {
+        padding-top: 75px;
+        padding-bottom: 10px;
+    }
+    .box1 {
+        margin-bottom: 50px;
+    }
+    .box1 p {
+        padding: 0px 25px;
+        padding-top: 30px;
+    }
+    .gallery-info p {
+        padding: 0 100px;
+        padding-bottom: 30px;
+    }
+    .gallery-nav ul {
+        padding-left: 0;
+    }
+    .gallery-nav ul li {
+        padding: 0px 23px;
+    }
+    .gallery-nav ul li a {
+        font-size: 12px;
+    }
+    .gal-inner h3 {
+        font-size: 20px;
+        padding-bottom: 19px;
+    }
+    .gal-inner p {
+        font-size: 13px;
+        margin-bottom: 83px;
+    }
+    .counterup-info h4 {
+        padding-top: 30px;
+        font-size: 19px;
+    }
+    .counterup-info p {
+        padding: 0px 74px;
+        padding-top: 25px;
+    }
+    .header {
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        top: 61px;
+    }
+    .counterup-over {
+        height: 890px;
+    }
+    #counterup {
+        padding-bottom: 636px;
+    }
+    #feedback {
+        padding-top: 120px;
+        padding-bottom: 30px;
+    }
+    .flex-ok {
+        display: flex;
+    }
+    .togglefaq {
+        width: 715px;
+        overflow: hidden;
+    }
+    .main-dropdown {
+        width: unset;
+        height: unset;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .main-dropdown {
+        padding-top: 35px;
+    }
+    a.actived {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .collaps {
+        font-size: 17px;
+    }
+    .text-D span {
+        font-size: 14px;
+    }
+    #theme {
+        padding-top: 40px;
+    }
+    #theme .theme-info p {
+        padding-bottom: 15px;
+    }
+    .space1 {
+        margin-top: 0;
+    }
+    a.actived {
+        font-size: 17px;
+    }
+    #blog {
+        padding-top: 40px;
+        padding-bottom: 32px;
+    }
+    #theme .theme-info h6 {
+        font: 700 16px/20px "Raleway", sans-serif;
+        padding-left: 10px;
+    }
+    #theme .theme-info p {
+        font: 400 12px/17px "Roboto", sans-serif;
+        padding-left: 10px;
+    }
+    #theme .theme-icon svg {
+        width: 22px;
+    }
+    #theme .theme-icon {
+        width: 70px;
+        height: 70px;
+    }
+    #footer .copyright ul li a {
+        font: 700 12px/16px "Raleway", sans-serif;
+    }
+}
+
+@media(min-width:576px) and (max-width:767px){
+    .banner-overlay p {
+        font-size: 12px;
+        padding: 0px 234px;
+        line-height: 15px;
+        padding-top: 20px;
+    }
+    .banner-overlay h3 {
+        padding-top: 30px;
+        font-size: 20px;
+    }
+    .banner-overlay h1 {
+        font-size: 25px;
+    }
+    .banner-overlay button {
+        margin: 0 5.5px;
+        width: 104px;
+        height: 29px;
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    .A-left{
+        display: none;
+    }
+    .A-right{
+        display: none;
+    }
+    #hide {
+        height: 0;
+    }
+    #navber-info {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        position: fixed;
+        top: 0;
+        left: 0;
+    }
+    #head-line-ver {
+        display: none;
+    }
+    #banner {
+        margin-top: 61px;
+    }
+    .navbar-toggler i {
+        font-size: 25px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 20px;
+        background-color: #eaeaea;
+        border: 1px solid white;
+    }
+    .extra-jinis {
+        display: flex;
+    }
+    .nav-shop-icon1 i {
+        padding-left: 18px;
+    }
+    .about-item h2 {
+        font-size: 14px;
+    }
+    #about {
+        padding-top: 0;
+        padding-bottom: 15px;
+    }
+    .traiangle-up::before {
+        top: -70px;
+    }
+    .header {
+        top: 61px;
+    }
+    .about-item p {
+        padding-top: 17px;
+        font-size: 17px;
+    }
+    #about-items {
+        padding-top: 75px;
+        padding-bottom: 10px;
+    }
+    .box1 {
+        width: 240px;
+        margin-bottom: 50px;
+    }
+    .box1 p {
+        padding: 0px 25px;
+        padding-top: 30px;
+}
+    .gallery-info p {
+        padding: 0 0;
+        padding-bottom: 30px;
+    }
+    .gallery-nav ul {
+        padding-left: 0;
+    }
+    .gallery-nav ul li {
+        padding: 0px 10px;
+    }
+    .gallery-nav ul li a {
+        font-size: 12px;
+    }
+    .gal-inner h3 {
+        font-size: 15px;
+        padding-bottom: 19px;
+    }
+    .gal-inner p {
+        font-size: 13px;
+        margin-bottom: 83px;
+    }
+    .counterup-info h4 {
+        padding-top: 30px;
+        font-size: 19px;
+    }
+    .counterup-info p {
+        padding: 0px 15px;
+        padding-top: 25px;
+    }
+    .header {
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        top: 61px;
+    }
+    .counterup-over {
+        height: 890px;
+    }
+    #counterup {
+        padding-bottom: 636px;
+    }
+    #feedback {
+        padding-top: 120px;
+        padding-bottom: 30px;
+    }
+    .flex-ok {
+        display: flex;
+    }
+    .togglefaq {
+        width: 455px;
+        overflow: hidden;
+        padding-left: 15px;
+    }
+    .main-dropdown {
+        width: unset;
+        height: unset;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .main-dropdown {
+        padding-top: 35px;
+    }
+    a.actived {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .faqanswer p {
+        font-size: 12px;
+        padding-right: 130px;
+        padding-left: 100px;
+    }
+    .collaps {
+        font-size: 11px;
+    }
+    .text-D span {
+        padding-left: 5px;
+        font-size: 11px;
+    }
+    #theme {
+        padding-top: 40px;
+    }
+    .Alien1 {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    .Padding-t {
+        padding: 10px 0;
+    }
+    #theme .theme-info p {
+        padding-bottom: 15px;
+    }
+    .space1 {
+        margin-top: 0;
+    }
+    a.actived {
+        padding-left: 15px;
+        font-size: 11px;
+    }
+    #blog {
+        padding-top: 40px;
+        padding-bottom: 32px;
+    }
+}
+/* New World */
+@media(max-width:575.98px){
+    .banner-overlay p {
+        font-size: 12px;
+        padding: 0px 234px;
+        line-height: 15px;
+        padding-top: 20px;
+    }
+    .banner-overlay h3 {
+        padding-top: 30px;
+        font-size: 20px;
+    }
+    .banner-overlay h1 {
+        font-size: 25px;
+    }
+    .banner-overlay button {
+        margin: 0 5.5px;
+        width: 104px;
+        height: 29px;
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    .A-left{
+        display: none;
+    }
+    .A-right{
+        display: none;
+    }
+    #hide {
+        height: 0;
+    }
+    #navber-info {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        position: fixed;
+        top: 0;
+        left: 0;
+    }
+    #head-line-ver {
+        display: none;
+    }
+    #banner {
+        margin-top: 61px;
+    }
+    .navbar-toggler i {
+        font-size: 25px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 20px;
+        background-color: #eaeaea;
+        border: 1px solid white;
+    }
+    .extra-jinis {
+        display: flex;
+    }
+    .nav-shop-icon1 i {
+        padding-left: 18px;
+    }
+    .about-item h2 {
+        font-size: 14px;
+    }
+    #about {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .traiangle-up::before {
+        top: -70px;
+    }
+    .about-item p {
+        padding-top: 15px;
+        font-size: 12px;
+    }
+    #about-items {
+        padding-top: 75px;
+        padding-bottom: 0;
+    }
+    .box1 {
+        margin-bottom: 50px;
+    }
+    #gallery {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    .gallery-info p {
+        padding: 0px 15px;
+        padding-bottom: 25px;
+        margin-bottom: 60px;
+    }
+    .gallery-nav {
+        display: none;
+    }
+    .gal-inner h3 {
+        font-size: 22px;
+        padding-bottom: 20px;
+    }
+    .gal-inner p {
+        margin-bottom: 85px;
+    }
+    .counterup-info h4 {
+        padding-top: 30px;
+        font-size: 19px;
+    }
+    .counterup-info p {
+        padding: 0px 15px;
+        padding-top: 25px;
+    }
+    .header {
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        top: 61px;
+    }
+    .counterup-over {
+        height: 1560px;
+    }
+    #counterup {
+        padding-bottom: 1380px;
+    }
+    #feedback {
+        padding-top: 120px;
+        padding-bottom: 30px;
+    }
+    .gallery-info p {
+        padding: 0px 15px;
+    }
+    .gallery-info p::after {
+        bottom: -30px;
+    }
+    .togglefaq {
+        width: 295px;
+        overflow: hidden;
+        padding-left: 5px;
+    }
+    .main-dropdown {
+        width: unset;
+        height: unset;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .main-dropdown {
+        padding-top: 35px;
+    }
+    a.actived {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .faqanswer p {
+        font-size: 12px;
+        padding-right: 130px;
+        padding-left: 100px;
+    }
+    .collaps {
+        font-size: 11px;
+    }
+    .text-D span {
+        padding-left: 5px;
+        font-size: 11px;
+    }
+    .slide-info span {
+        padding-left: 20px;
+    }
+    .slide-info p {
+        font-size: 12px;
+        padding: 0 95px;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .slide-img {
+        margin-left: 0;
+    }
+    #feedback .d-flex {
+        justify-content: center;
+    }
+    .slide-info h4 {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    #blog .text-Edit1 {
+        padding-bottom: 25px;
+    }
+    #blog .text-Edit2 {
+        padding: 0 0;
+    }
+    #theme .Ttext-Edit2 {
+        padding: 0 0;
+    }
+    #blog {
+        padding-top: 30px;
+        padding-bottom: 45px;
+    }
+    #theme {
+        padding-top: 40px;
+    }
+    #theme .theme-item {
+        margin: 20px 0;
+    }
+    #brands {
+        padding-top: 40px;
+        padding-bottom: 45px;
+    }
+    #footer .Pbok{
+        padding-bottom: 10px;
+    }
+    #footer {
+        padding-top: 40px;
+    }
+    #footer .copyright {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #footer p {
+        font: 400 11px/20px "Roboto", sans-serif;
+    }
+    #footer .copyright ul li a {
+        font: 700 12px/21px "Raleway", sans-serif;
+    }
+    .bttop {
+        right: 10px;
+    }
+    #theme .Ttext-Edit1 {
+        font-size: 25px;
+    }
+    .space1 {
+        margin-top: 0;
+    }
+    .togglefaq i {
+        right: -1px;
+    }
+    a.actived {
+        font-size: 11px;
+        padding-left: 5px;
+    }
+    .new_S {
+        margin-top: 35px;
+    }
+    #feedback .user-name {
+        font: 600 13px/21px 'Raleway', sans-serif;
+        padding-left: 20px;
+    }
+    #feedback .feedback-info a {
+        font: 400 11px/17px 'Roboto', sans-serif;
+    }
+    #feedback .feedback-content p {
+        font: 400 12px/20px 'Roboto', sans-serif;
+        padding-left: 20px;
+    }
+}
+@media(min-width:480px) and (max-width:575px){
+    .togglefaq {
+        width: 455px;
+        padding-left: 15px;
+    }
+    .togglefaq i {
+        right: -1px;
+    }
+    .space1 {
+        margin-top: 0;
+    }
+    a.actived {
+        font-size: 11px;
+        padding-left: 15px;
+    }
+    .space2 {
+        margin-top: 35px;
+    }
+    .counterup-item-info p {
+        width: 400px;
+    }
+    .main-Feed-Slider {
+        margin: 0 70px;
+    }
+}
